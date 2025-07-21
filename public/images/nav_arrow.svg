@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="7px" viewBox="0 0 10 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>下拉箭头/导航栏备份 4@2x</title>
+    <g id="控件" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="文字tab/+下拉箭头" transform="translate(-53, -19)" stroke="#000000" stroke-width="1.5">
+            <g id="下拉箭头/导航栏备份-4" transform="translate(54.5, 20.5)">
+                <polyline id="路径备份-4" transform="translate(3.5, 2) rotate(90) translate(-3.5, -2)" points="1.5 -1.5 5.5 2 1.5 5.5"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
